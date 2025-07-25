@@ -6,7 +6,7 @@
 
 ### Pasos para Crear tus primeros PR y obtener merch gratis.
 
-Paso 0: Crea una cuenta de Github gratis aquí.
+Paso 0: Crea una cuenta de Github gratis [aquí](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
 
 Paso 1: Registrate en Hactoberfest-2025 usando tu id de github.
 
